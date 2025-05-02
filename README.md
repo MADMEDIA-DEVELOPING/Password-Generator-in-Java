@@ -1,7 +1,7 @@
 #HOW TO RUN PROJECT?
 
 
-1.Descarcă fisirul "generator.java";
+1.Descarcă fisirul cu terminație .zip de pe GitHub;
 
 2.Crează un folder de desktop si denumește-l;
 
